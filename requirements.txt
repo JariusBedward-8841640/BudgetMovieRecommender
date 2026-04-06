@@ -1,0 +1,7 @@
+gymnasium>=0.29
+numpy>=1.24
+stable-baselines3>=2.3
+torch>=2.1
+pytest>=8.0
+streamlit>=1.36
+plotly>=5.20
